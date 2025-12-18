@@ -1,0 +1,26 @@
+{
+  "name": "first-react",
+  "version": "1.0.0",
+  "description": "this is my first react app",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanthpower/first-react.git"
+  },
+  "keywords": [],
+  "author": "sumanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanthpower/first-react/issues"
+  },
+  "homepage": "https://github.com/sumanthpower/first-react#readme",
+  "dependencies": {
+    "parcel": "^2.16.3"
+  }
+}
